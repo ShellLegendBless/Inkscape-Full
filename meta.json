@@ -1,0 +1,23 @@
+{
+  "repo": "inkscape-full",
+  "product": "Inkscape Full",
+  "kind": "creative",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "vector-design",
+  "topics": [
+    "inkscape-vector",
+    "svg-editor-desktop",
+    "path-editing-tools",
+    "print-ready-vectors",
+    "inkscape-windows",
+    "vector-studio-2026",
+    "how-to-install-inkscape",
+    "inkscape-desktop-package",
+    "logo-design-workspace",
+    "inkscape-pro-suite"
+  ],
+  "site": "toolix.me"
+}
